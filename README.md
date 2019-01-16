@@ -1,4 +1,4 @@
-Utilities - Operations and Maintenance conceptual schema
+# Utilities - Operations and Maintenance conceptual schema
 
 The Operations and Maintenance conceptual schema describes the topology, vocabulary and semantics of utility networks – with a focus on operations and maintenance activities. 
 
@@ -12,20 +12,20 @@ Documentation available at the repository includes the ‘Operations and Mainten
 
 [1.]	The UML model of the Operations and Maintenance conceptual schema created within Enterprise Architect:
 
-	The .eap file containing the UML model.
+-	The .eap file containing the UML model.
 
 
 
 [2.]	The XML schema file of the Operations and Maintenance conceptual schema directly derived from the UML class model using the software ShapeChange: 
 
-	The file containing the XML schema file. 
+-	The file containing the XML schema file. 
 
-	Codelist dictionary in .xlsx and .xml, accessible for alterations. 
+-	Codelist dictionary in .xlsx and .xml, accessible for alterations. 
 
-	FME feature types definition file in .xml. 
+-	FME feature types definition file in .xml. 
 
 
 
 [3.]	The ShapeChange configuration file to derive the XML schema file and code lists dictionaries:
 
-	For further use of the software it is referred to http://shapechange.net/. 
+-	For further use of the software it is referred to http://shapechange.net/. 
