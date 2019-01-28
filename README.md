@@ -4,7 +4,7 @@ The Operations and Maintenance conceptual schema describes the topology, vocabul
 
 The Operations and Maintenance conceptual schema builds upon and extends CityGML UtilityNetwork ADE. CityGML UtilityNetwork ADE allows for identification and modelling of utility networks. The Operations and Maintenance conceptual schema adds concepts and relations relevant for the domain of operations and maintenance.
 
-Newly added concepts and classes cover amongst others related party, performance, dimensional, surrounding soil, cost and maintenance properties. The Operations and Maintenance conceptual schema can provide a comprehensive set of utility information required for operations and maintenance related processes activities.
+Newly added concepts and classes cover amongst others related party, performance, dimensional, surrounding soil, cost and maintenance properties. The Operations and Maintenance conceptual schema can provide a comprehensive set of utility information required for operations and maintenance related processes and activities.
 
 
 Documentation available at the repository includes the ‘Operations and Maintenance – Data Specification’, ‘Operations and Maintenance – Feature Catalogue’ and ‘Operations and Maintenance – Overview of class models in UML’.  In addition, the repository includes the following:
